@@ -15,7 +15,6 @@ BuildRequires: systemd-units
 
 Requires: python3
 Requires: python3-gobject
-Requires: python3-configparser
 Requires: systemd
 
 Conflicts: thermald
